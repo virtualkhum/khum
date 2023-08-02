@@ -57,7 +57,7 @@ $(function () {
                         $("<strong>").text(
                             "Thank you " +
                                 firstName +
-                                ",Massage sent successfully"
+                                ", Your Massage sent successfully"
                         )
                     );
                     $("#success > .alert-danger").append("</div>");
